@@ -122,15 +122,18 @@ Push to GitHub.
 git push origin feature-name
 ```
 Create a Pull Request.
-📜 License
+## 📜 License
 This project is open-source under the @Creative Commons Zero v1.0 Universal
 
 
-📩 Contact
+## 📩 Contact
 For any queries, feel free to reach out: 
 📧 Email: kuasha10102@gmail.com
-🐙 GitHub: @sayantichy
-🔗linkedin: @sayantichy
-🗝 X: @sayantichy
+
+🔗linkedin: [@sayantichy](www.linkedin.com/in/sayantichy)
+
+🗝 X: [@sayantichy](https://x.com/Sayantichy)
+
+📺YouTube: [The AlgoBee](www.youtube.com/@thealgobee)
 
 🚀 Enjoy your personalized quiz experience! 🎉
