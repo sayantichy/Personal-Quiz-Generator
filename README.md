@@ -123,11 +123,11 @@ git push origin feature-name
 ```
 Create a Pull Request.
 📜 License
-This project is open-source under the 
+This project is open-source under the @Creative Commons Zero v1.0 Universal
+
 
 📩 Contact
-For any queries, feel free to reach out: Creative Commons Zero v1.0 Universal
-
+For any queries, feel free to reach out: 
 📧 Email: kuasha10102@gmail.com
 🐙 GitHub: @sayantichy
 🔗linkedin: @sayantichy
